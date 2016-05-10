@@ -1,0 +1,20 @@
+name: HardestJourney
+version: 1.0.0
+description: The fartest you walk, the harder it gets
+
+author: Deku
+website: http://www.github.com/Deku
+main: cl.josedev.HardestJourney.HardestJourney
+
+commands:
+    dificultad:
+        description: Te dice la distancia hasta el spawn y la dificultad actual
+        usage: /<command>
+    journey:
+        description: Comando para administradores
+        usage: /<comand> <args>
+
+permissions:
+    hj.admin:
+        description: Administracion de HardestJourney
+        default: op

@@ -1,0 +1,22 @@
+difficulty:
+  world:
+    healthMultiplier: 0.04
+    expMultiplier: 0.005
+    location:
+      x: 0
+      y: 65
+      z: 0
+  world_nether:
+    healthMultiplier: 0.045
+    expMultiplier: 0.005
+    location:
+      x: 0
+      y: 65
+      z: 0
+  world_the_end:
+    healthMultiplier: 0.05
+    expMultiplier: 0.005
+    location:
+      x: 0
+      y: 65
+      z: 0
